@@ -36,7 +36,7 @@ No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida 
 ## :information_source: Como usar
 
 ### Frontend e Backend:earth_americas:
-Para criar e executar esta aplicação frontend, você precisa executar o seguinte comandos logo abaixo:
+Para criar e executar esta aplicação frontend e backend juntos ao mesmo tempo, você precisa executar o seguinte comandos logo abaixo:
 
 ```bash
 # Clonar o repositório
