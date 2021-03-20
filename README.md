@@ -53,7 +53,7 @@ $ yarn start
 ```
 
 ## :memo: License
-Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/desafio-conceito-react-js/blob/master/LICENSE) for more information.
+Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/dtmoney/blob/master/LICENSE) for more information.
 
 ---
 
