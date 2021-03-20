@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="left">
-  Além foi desenvolvido no decorrer do curso de typescript, foram feitos pequenas alterações na estilização e foram adicionar animação baseado em alugos do proprio curso, foi criado componentes novos coforme proposto no curso quando necessário para melhor organização, então foram criados com o propósito de melhor a manutenção do código para os proximos desenvolvedor que trabalhar no codigo.
+Dando um upgrade nos meus estudos na linguagem typescript, participando desenvolvimento proposto pelo modulo, foram feitos pequenas alterações na estilização e foi adicionar animação baseado em alunos do proprio mesmo curso, foi criado componentes novos coforme proposto no modulo anterior quando necessário para melhor a organização do projeto e foram criados com o propósito de melhor a manutenção do código para os proximos desenvolvedor que trabalhar no projeto.
 </h4>
 
 <p align="center">
