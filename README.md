@@ -20,7 +20,7 @@ Dando um upgrade nos meus estudos na linguagem typescript, participando desenvol
 
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
-### Tecnologias do Frontend :computer:
+### Tecnologias do Frontend e Backend:computer:
 No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida e facilidade do uso e da configuração do mesmo, apos excluirmos arquivos desnecessarios, iniciamos as primeiras configuração, apos configuração pronto, instamos o typescript + react js como ferramenta do visual, para estizarmos utilizamos styled-components e para conectar o frontend com o backend utilizamos a biblioteca axios.
 
 -  [ReactJS](https://reactjs.org/)
@@ -35,7 +35,7 @@ No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida 
 
 ## :information_source: Como usar
 
-### Frontend :earth_americas:
+### Frontend e Backend:earth_americas:
 Para criar e executar esta aplicação frontend, você precisa executar o seguinte comandos logo abaixo:
 
 ```bash
