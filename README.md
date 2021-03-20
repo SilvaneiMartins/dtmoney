@@ -39,16 +39,16 @@ No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida 
 Para criar e executar esta aplicação frontend, você precisa executar o seguinte comandos logo abaixo:
 
 ```bash
-# Clone this repository
+# Clonar o repositório
 $ git clone https://github.com/SilvaneiMartins/dtmoney
 
-# Go into the repository
+# Acessar a pasta criada pelo repositório
 $ cd dtmoney
 
-# Instala as dependencies do projeto
+# Instalar as dependências do sistema
 $ yarn install
 
-# Executar a frontend
+# Executar o frontend e backend (Juntos)
 $ yarn start
 ```
 
